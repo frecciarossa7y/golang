@@ -9,6 +9,10 @@
  - 本家 http://golang.org/
  - 本家（日本語サイト）http://golang.jp/
 
+あとWEB+DB PRESS Vol.82 の「はじめてのGo」は非常に分かりやすく説明してくれています。
+今回のメモもこれをベースに読み進めてまとめたものです。
+http://gihyo.jp/magazine/wdpress/archive/2014/vol82
+
 ここでは私自身が気づいたことと面白いと感じたことをベースに記してみます。
 
 ### まずはざっくりと特徴を
