@@ -9,7 +9,7 @@ import (
 var empty struct{}
 
 func getStatus(urls []string) <-chan string {
-    statusChan := make(chan string, 3)
+    statusChan := make(chan string, 5)
     limit := make(chan struct{}, 5)
     go func() {
         for _, url := range urls {
