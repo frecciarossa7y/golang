@@ -89,3 +89,5 @@ http://sssslide.com/speakerdeck.com/ymatsuwitter/300mo-ren-wogodeba-itahua
 
 個人的には高いQPSを求められるAPIに適した言語かな、と思いました。リスティング広告のフロント部分などは
 特に有用かもしれないですね。
+
+土日の2日間だけでは物足りなく、事例など色々見ながら自分でもどんどんコードを書いてみたいと思いました。
